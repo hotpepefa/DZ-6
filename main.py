@@ -1,4 +1,4 @@
-def hello():
-    print("Hello, GitHub!")
+def hello(Ivan):
+    print(f"Hello, {Ivan}!")
 
-hello()
+hello("Windows 10")
